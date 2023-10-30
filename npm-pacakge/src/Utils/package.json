@@ -1,0 +1,23 @@
+{
+  "name": "check-online-user-status",
+  "version": "1.0.0",
+  "description": "\"check-online\" is a user-friendly Node.js package designed to determine a user's current internet connectivity status. This lightweight tool offers a straightforward way to check network connectivity, empowering developers to create applications that adapt to online and offline scenarios",
+  "main": "useOnline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankitkumar-tech/Check-online.git"
+  },
+  "author": "ankit-kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankitkumar-tech/Check-online/issues"
+  },
+  "homepage": "https://github.com/Ankitkumar-tech/Check-online#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
